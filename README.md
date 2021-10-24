@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# FarmDirect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Links
+* https://github.com/ncerva/FarmDirect
+* https://git.heroku.com/aqueous-reef-16750.git
 
-## Available Scripts
+## Description
+Our application will increase transparency between producers and consumers. It will provide an interface where consumers will be able to communicate with the producers, creating an environment for consumer education.
 
-In the project directory, you can run:
+## User Story
+```
+As a mindful consumer of locally sourced fresh produce, 
 
-### `npm start`
+I want to be able to order my produce somewhere that allows me to see where my food is being grown and who is growing it,
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+So that I can support local growers of produce and increase my education about where my food comes from.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+As a farmer of fresh produce,
 
-### `npm test`
+I want to have a platform to sell my produce that allows users to see where their food is being grown,
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+So that consumers will be able to learn more about good food production, increasing transparency between producer and consumer.
 
-### `npm run build`
+```
+## Technologies Used
+* API Used - ZipCode API
+* Framework - Bulma
+* Npm AOS
+* MongoDB
+* React
+* Bcryptjs
+* Express
+* Node
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Future Developments
+* Updating Inventory on Checkout
+* Chat directly with Farmers
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# Group Members:
+## Nicole Tribo
+### Git Repository: https://github.com/nicoletribo
+## Reid Johnson
+### Git Repository: https://github.com/Rjsa210 
+## Nayeli Cervantes
+### Git Repository: https://github.com/ncerva
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+###
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Alt text](https://user-images.githubusercontent.com/76188076/125211510-87587a00-e26c-11eb-90c7-37b6c062121a.png)
+![Alt text](https://user-images.githubusercontent.com/76188076/125211529-9b03e080-e26c-11eb-806b-7027356299cd.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
