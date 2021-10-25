@@ -56,6 +56,10 @@ const Results = () => {
 
   console.log(results);
 
+  function dummySubmit(event) {
+    event.preventDefault()
+    console.log("zipcode:" + context.zipcode + " radius:" + radius)
+  }
 
 
 
@@ -115,7 +119,7 @@ const Results = () => {
                         </div>
                       </div>
                       <div className="control">
-                        <button onClick={handleFormSubmit} className="button">Submit</button>
+                        <button onClick={dummySubmit} className="button">Submit</button>
                       </div>
 
                     </div>
